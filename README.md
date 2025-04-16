@@ -41,7 +41,7 @@ This Python program simulates a blind auction. Participants enter their names an
 3.  Save the provided code as a `.py` file (e.g., `blind_auction.py`).
 4.  Run the script using a Python interpreter:
     ```bash
-    python blind_auction.py
+    python blind_auction_bid.py
     ```
 
 ## Code Explanation
